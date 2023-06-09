@@ -1,6 +1,6 @@
 # Task Manager  
 
-This task manager is a user-friendly web application built for those who need an organized and intuitive method for managing their tasks.
+This task manager is a user-friendly web application built for those who need an organized and intuitive method for managing their tasks. You can check out the live project [here](https://britzkys-task-manager.netlify.app).
 
 ![Portfolio Screenshot](src/assets/task-manager.PNG)
 
